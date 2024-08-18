@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "name": "nokcraftlauncher",
+  "version": "10.0.0",
+  "productName": "NokCraft Launcher",
+  "description": "Modded NokCraft Launcher",
+  "author": "Nocilex & Daniel Scalzi",
+  "license": "LICENSED",
+  "homepage": "https://www.youtube.com/@nocilex",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/nocilex41/NokCraftLaunch/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/ocilex41/NokCraftLaunch.git"
   }
 }

@@ -1703,6 +1703,10 @@ input:checked + .toggleSwitchSlider:before {
     margin-bottom: 10px;
 }
 
+.noVue {
+    display: none;
+}
+
 /* Mod elements sub-containers. */
 #settingsReqModsContainer,
 #settingsOptModsContainer,
